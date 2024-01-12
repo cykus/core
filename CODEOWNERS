@@ -596,6 +596,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/incomfort/ @zxdavb
 /homeassistant/components/influxdb/ @mdegat01
 /tests/components/influxdb/ @mdegat01
+/homeassistant/components/influxdb2ha/ @cykus
+/tests/components/influxdb2ha/ @cykus
 /homeassistant/components/inkbird/ @bdraco
 /tests/components/inkbird/ @bdraco
 /homeassistant/components/input_boolean/ @home-assistant/core

@@ -1,0 +1,13 @@
+{
+  "domain": "influxdb2ha",
+  "name": "InfluxDB 2 HA",
+  "codeowners": ["@cykus"],
+  "config_flow": true,
+  "dependencies": ["influxdb", "recorder"],
+  "documentation": "https://www.home-assistant.io/integrations/influxdb2ha",
+  "homekit": {},
+  "iot_class": "calculated",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
